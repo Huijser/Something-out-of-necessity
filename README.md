@@ -1,5 +1,16 @@
 # Something-out-of-necessity
-Just an example
+Just an example for saving some content from websites in case your internet is crappy and you need access later.
+
+Its just some website you can host on your machine. Give it some links and it wil get the contetn for you for later viewing.
+
+What to do: (for non tech people)
+
+Download a server for hosting the files (your local website)
+Popular window server "Wampserver" 
+1 - <a href="http://www.wampserver.com/en/">Download server software</a>
+2 - open .exe file and go through the wizard
+3 - Go to the base directory of the install, probably something like C:\wamp\
+
 
 
 
