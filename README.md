@@ -6,11 +6,10 @@ Its just some website you can host on your machine. Give it some links and it wi
 What to do: (for non tech people)
 
 Download a server for hosting the files (your local website)</br>
-Popular window server "Wampserver" </br>
-1 - <a href="http://www.wampserver.com/en/">Download server software</a></br>
+Popular window server "XAMPP" </br>
+1 - <a href="https://www.apachefriends.org/download.html">Download server software ( around 100MB)</a></br>
 2 - open .exe file and go through the wizard</br>
-  2.5 Having some dll error? look at this: https://www.youtube.com/watch?v=4Xz-lLj3Dkg </br>
-3 - Go to the base directory of the install, probably something like C:\wamp\</br>
+3 - Go to the base directory of the install, probably something like C:\xampp\</br>
 
 
 
